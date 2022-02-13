@@ -17,6 +17,7 @@
 }
 .Cadastrar{
     background-color: var(--cadastrar);
+    margin-bottom: 15px;
 }
 .button.azul{
     background-color: var(--azulShow);
