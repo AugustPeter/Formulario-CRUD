@@ -29,6 +29,7 @@ body{
     padding-left: 20px;
     padding-right: 20px;
 }
+
 .tabela .rowbutton{
     width: 300px;
     padding-left: 25px;
@@ -37,6 +38,10 @@ body{
 }
 .tabela .id{
     text-align: center;
+}
+.tabela .nome{
+    text-align: start;
+    
 }
 .pintado{
     background-color: #3d3d3d;
