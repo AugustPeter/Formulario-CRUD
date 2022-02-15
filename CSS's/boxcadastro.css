@@ -120,17 +120,20 @@ input:disabled {
 }
 @media (max-width:480px){
     .box-cadastro{
-        top: 100%;
+        top: 80%;
         transition: all 1s ease;
+        margin: 0 auto;
     }
     .box-cadastro.active{
-        top: 0;
+        top: 8%;
+        margin: 0 auto;
     }
     .box-cadastro-content{
         margin:0;
-        width: 100%;
+        width: 80%;
         position: fixed;
         height: 80%;
+        margin-left: 9%;
     }
     .box-field-cadastro{
         width: 100%;
