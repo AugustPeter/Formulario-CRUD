@@ -14,9 +14,10 @@
     --box:#303030;
 }
 .box-edit.active{
-    opacity: 1;
-    z-index: 1;
+    opacity: 1; 
+    z-index: 1; 
 }
+
 .box-edit-content{
     display: flex;
     flex-direction: column;
